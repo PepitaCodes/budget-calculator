@@ -1,0 +1,11 @@
+
+.text-center {
+    color: #FFFFFF;
+    font-weight: 700;
+}
+input {
+    text-align: center; 
+}
+button {
+    width: 100%;
+}
